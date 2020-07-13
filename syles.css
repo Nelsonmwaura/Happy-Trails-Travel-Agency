@@ -1,0 +1,30 @@
+.header{
+  color: #f7325e;
+}
+.Tropical{
+  color: grey;
+}
+p.Tropical{
+  font-style: italic;
+  font-size: 18px;
+  color: #7dc410;
+}
+p{
+  color: purple;
+  font-size: 18px;
+}
+.dark{
+  color: darkred;
+}
+.Popular{
+    color:grey;
+
+}
+p.Popular{
+  color: blue;
+  font-size: 18px;
+  font-style: italic;
+}
+body{
+  font-family: fantasy;
+}
